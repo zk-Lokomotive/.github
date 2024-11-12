@@ -1,7 +1,7 @@
 # zk-lokomotive: Zero-Knowledge Based Multichain File Transfer System
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./zkl-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./zkl.svg">
   <img alt="ZKL logo" src="./zkl.svg">
 </picture>
 <br/><br/>
