@@ -449,8 +449,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 ### Awards and Recognitions of zk-lokomotive
-
-* Movement Labs Battle of Olympus Hackathon (Finalist🏆) | Oct 2024
+* Wormhole Global Sigma Hackathon Best Existing Project (Winner 5th🏆) | Nov 2024
+* Movement Labs Battle of Olympus Hackathon (Finalist - Grant🏆) | Oct 2024
 * Encode Wormhole Global Hackathon Best Integration on an Existing Project (Winner🥉) | Oct 2024
 * Wormhole xGrant (Project Grant) | Jun 2024
 * Superteam Solana Grant (Project Grant) Jun 2024
